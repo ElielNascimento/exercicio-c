@@ -8,6 +8,8 @@ int main (){
 	scanf("%c", &letra);
 	
 	printf("A letra que voce digitou foi : %c", letra);
+
+	printf("HOJE É DIA 01/09  E  O PALMEIRAS CONTINUA SEM MUNDIAL");
 	
 	return 0;
 }
